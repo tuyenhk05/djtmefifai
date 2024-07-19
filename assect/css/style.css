@@ -1,0 +1,178 @@
+﻿/*Header*/
+.header{
+   position:sticky;
+    top:0;
+    left:0;
+    z-index:99999;
+}
+.header .section-one{
+    display:flex;
+    justify-content:space-between;
+    padding: 50px;
+    background:var(--color-three);
+    height:80px;
+    width:100%;
+    align-items:center;
+    border-bottom:1px solid black;
+ 
+
+}
+.header .section-one .logo{
+    display:flex;
+    align-items:center;
+
+}
+.header .section-one .logo img {
+        width: 50px;
+        height:100%;
+    }
+.header .section-one .logo span{
+    font-size:25px;
+    font-weight:700;
+    margin-left:20px;
+
+}
+.header .section-one .menu ul{
+    display:flex;
+    align-items:center;
+}
+.header .section-one .menu ul li a{
+    padding:48px;
+    font-weight:500;
+    font-size:16px;
+    }
+ .header .section-one .menu ul li a:hover{
+     background:#fff;
+
+ }
+    .header .section-one .icon a {
+        font-size: 25px;
+        font-weight: 500;
+        background: #fff;
+        margin-left: 10px;
+        border-radius: 15px;
+        width: 46px;
+        height: 46px;
+        line-height: 46px;
+        display: inline-block;
+        text-align: center;
+    }
+/* end Header*/
+/*section ONE*/
+.section-one .backgroud{
+    position: relative;
+}
+.section-one img {
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+    filter: brightness(50%)
+}
+
+
+.section-one .inner-wrap{
+    padding:100px 0;
+    position:absolute;
+    top:0;
+}
+.section-one .inner-wrap .loaihinh{
+    color:#fff;
+    font-weight:600;
+    font-size:19px;
+}
+.section-one .inner-wrap .name{
+    color:#fff;
+    font-weight:1000;
+    font-size:40px;
+    padding:10px 0;
+}
+.section-one .inner-wrap .khauhieu{
+    font-size:19px;
+    padding:10px 0;
+}
+.section-one .inner-wrap .lienhe{
+    display:flex;
+    padding: 20px 0;
+
+}
+    .section-one .inner-wrap .lienhe .bottom{
+        margin-right:10px;
+        font-size:15px;
+        font-weight:700;
+    }
+    .section-one .inner-wrap .lienhe .bottom2 a{
+      
+        color:#fff;
+
+    }
+    .section-one .inner-wrap .lienhe .bottom2{
+            background-color:transparent;
+            border:1px solid var(--color-three);
+        }
+        .section-one .inner-wrap .lienhe .bottom2:hover {
+            background: #F6D8C3;
+        }
+        .section-one .inner-wrap .lienhe .bottom2 a:hover{
+            color:black;
+        }
+/* END section ONE*/
+
+/*section TWO*/
+.section-two{
+    background:var(--color-three);
+}.section-two .content{
+     padding:100px 0;
+ }
+    .section-two .content img{
+        width:450px;
+       height:550px;
+       border-radius:20px;
+       overflow:hidden;
+    }
+.section-two .content .tinhnang{
+    font-weight:700;
+    padding-bottom:20px;
+}
+.section-two .content .tieude{
+    color:black;
+    font-size:60px;
+    font-weight:700;
+}
+    .section-two .content .inner-all{
+        display:flex;
+        padding-bottom:20px;
+       
+    }
+    .section-two .content .inner-all .noidung {
+        margin-right:20px;
+        padding: 40px;
+        background: #fff;
+        display:flex;
+        flex-direction:column;
+        justify-content:space-between;
+        align-items:center;
+        text-align:center;
+        border-radius:10px;
+        max-width:140px;
+    }
+        .section-two .content .inner-all .noidung i {
+            color: #FF8484;
+            font-size:30px;
+            padding-bottom:10px;
+        } 
+        .section-two .content .inner-all .noidung span{
+            color:black;
+            font-weight:700;
+        }
+    .section-two .content .khauhieu{
+        padding-bottom:20px;
+    }
+    .section-two .content .bottom3 {
+        width: 200px;
+        text-align: center;
+        font-weight: 700;
+    }
+
+
+
+/*END section TWO*/

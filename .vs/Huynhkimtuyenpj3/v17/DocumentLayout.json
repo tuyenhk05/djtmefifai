@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\Huynhkimtuyenpj3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F00CF43-19D4-47FF-8FA4-60A5643585F7}|C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\Huynhkimtuyenpj3|c:\\users\\huynh kim tuyen\\source\\repos\\huynhkimtuyenpj3\\indexx.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F00CF43-19D4-47FF-8FA4-60A5643585F7}|C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\Huynhkimtuyenpj3|solutionrelative:indexx.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F00CF43-19D4-47FF-8FA4-60A5643585F7}|C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\Huynhkimtuyenpj3|c:\\users\\huynh kim tuyen\\source\\repos\\huynhkimtuyenpj3\\assect\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4F00CF43-19D4-47FF-8FA4-60A5643585F7}|C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\Huynhkimtuyenpj3|solutionrelative:assect\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F00CF43-19D4-47FF-8FA4-60A5643585F7}|C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\Huynhkimtuyenpj3|C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\Huynhkimtuyenpj3\\assect\\css\\base.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4F00CF43-19D4-47FF-8FA4-60A5643585F7}|C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\Huynhkimtuyenpj3|solutionrelative:assect\\css\\base.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "indexx.html",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\Huynhkimtuyenpj3\\indexx.html",
+              "RelativeDocumentMoniker": "indexx.html",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\Huynhkimtuyenpj3\\indexx.html",
+              "RelativeToolTip": "indexx.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAD+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-02T11:16:24.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "base.css",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\Huynhkimtuyenpj3\\assect\\css\\base.css",
+              "RelativeDocumentMoniker": "assect\\css\\base.css",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\Huynhkimtuyenpj3\\assect\\css\\base.css",
+              "RelativeToolTip": "assect\\css\\base.css",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-02T11:34:55.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\Huynhkimtuyenpj3\\assect\\css\\style.css",
+              "RelativeDocumentMoniker": "assect\\css\\style.css",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\Huynhkimtuyenpj3\\assect\\css\\style.css",
+              "RelativeToolTip": "assect\\css\\style.css",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-02T11:17:26.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
